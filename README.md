@@ -21,9 +21,19 @@ Building trusted data foundations, responsible AI practices, and inclusive digit
 
 ## Leadership
 
+<div align="center">
+
+<a href="https://www.datanovaq.fr/">
+  <img src="./assets/datanovaq-logo.png" width="420" alt="DataNovaQ logo" />
+</a>
+
+**[Visit DataNovaQ →](https://www.datanovaq.fr/)**
+
+</div>
+
 | Organization | Role | Mission |
 |---|---|---|
-| **DatanovaQ** | Data & AI Governance Lead | Turning governance principles into trusted, practical data and AI capabilities |
+| **[DataNovaQ](https://www.datanovaq.fr/)** | Data & AI Governance Lead | Turning governance principles into trusted, practical data and AI capabilities |
 | **YAIL Paris Hub** | VP Regional Lead | Growing a collaborative community around youth, AI, and responsible innovation |
 | **Youth IGF Morocco** | Founder | Empowering young people to shape an open, inclusive, and safe digital future |
 
