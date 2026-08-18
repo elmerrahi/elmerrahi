@@ -21,12 +21,12 @@ At **DataNovaQ**, I lead Data & AI governance strategy, operating models, owners
 
 ---
 
-## DataNovaQ — My company
+## DataNovaQ
 
 <div align="center">
 
 <a href="https://www.datanovaq.fr/">
-  <img src="./assets/datanovaq-logo.png" width="500" alt="DataNovaQ logo" />
+  <img src="./assets/datanovaq-logo.png" width="220" alt="DataNovaQ logo" />
 </a>
 
 ### Data & AI Governance Lead
