@@ -3,11 +3,11 @@
 # Oussama Elmerrahi
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=37E6FF&center=true&vCenter=true&width=820&lines=Data+%26+AI+Governance+Lead+%40+DatanovaQ;VP+Regional+Lead+%E2%80%94+YAIL+Paris+Hub;Founder+%E2%80%94+Youth+IGF+Morocco;Building+trusted+and+responsible+data+ecosystems"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=37E6FF&center=true&vCenter=true&width=820&lines=Data+%26+AI+Governance+Lead+at+DataNovaQ;VP+Regional+Lead+at+YAIL+Paris+Hub;Founder+of+Youth+IGF+Morocco;Building+trusted+and+responsible+data+ecosystems"
   alt="Oussama Elmerrahi's professional roles"
 />
 
-**Data & AI Governance · Responsible AI · Digital Leadership**
+**Data & AI Governance Lead at [DataNovaQ](https://www.datanovaq.fr/) · VP Regional Lead at YAIL Paris Hub · Founder of Youth IGF Morocco**
 
 Building trusted data foundations, responsible AI practices, and inclusive digital communities.
 
