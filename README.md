@@ -11,6 +11,8 @@
 
 Building trusted data foundations, responsible AI practices, and inclusive digital communities.
 
+At **DataNovaQ**, I lead Data & AI governance strategy, operating models, ownership, data quality, metadata, lineage, Responsible AI risk, and compliance. As **VP Regional Lead at YAIL Paris Hub**, I lead regional partnerships, programs, and community growth; as **Founder of Youth IGF Morocco**, I shape the vision and advance meaningful youth participation in Internet governance.
+
 ![Data Governance](https://img.shields.io/badge/Data_Governance-0D1117?style=for-the-badge&logo=databricks&logoColor=37E6FF)
 ![AI Governance](https://img.shields.io/badge/AI_Governance-0D1117?style=for-the-badge&logo=openai&logoColor=A879FF)
 ![Responsible AI](https://img.shields.io/badge/Responsible_AI-0D1117?style=for-the-badge&logo=probot&logoColor=37E6FF)
@@ -24,7 +26,7 @@ Building trusted data foundations, responsible AI practices, and inclusive digit
 <div align="center">
 
 <a href="https://www.datanovaq.fr/">
-  <img src="./assets/datanovaq-logo.png" width="760" alt="DataNovaQ logo" />
+  <img src="./assets/datanovaq-logo.png" width="500" alt="DataNovaQ logo" />
 </a>
 
 ### Data & AI Governance Lead
@@ -32,25 +34,6 @@ Building trusted data foundations, responsible AI practices, and inclusive digit
 **[Discover DataNovaQ →](https://www.datanovaq.fr/)**
 
 </div>
-
-At **DataNovaQ**, I lead the strategy and operating model that make data and AI trustworthy, accountable, and ready to create sustainable business value.
-
-### My responsibilities
-
-- Define and lead the **Data & AI Governance strategy**, roadmap, and operating model
-- Establish clear **data ownership, stewardship, policies, standards, and decision rights**
-- Drive **data quality, metadata management, lineage, traceability, and observability**
-- Design **Responsible AI governance**, including accountability, risk controls, transparency, and compliance
-- Align business, data, technology, legal, risk, and compliance stakeholders around shared governance outcomes
-- Turn governance requirements into **practical frameworks, measurable controls, and scalable capabilities**
-- Promote a culture where data and AI are used ethically, securely, and responsibly
-
-## Community leadership
-
-| Organization | Role | Responsibilities |
-|---|---|---|
-| **YAIL Paris Hub** | VP Regional Lead | Lead regional strategy, partnerships, programming, and community development around youth and responsible AI |
-| **Youth IGF Morocco** | Founder | Set the vision, build the ecosystem, and empower meaningful youth participation in Internet governance |
 
 ## What I work on
 
