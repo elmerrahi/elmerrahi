@@ -19,23 +19,38 @@ Building trusted data foundations, responsible AI practices, and inclusive digit
 
 ---
 
-## Leadership
+## DataNovaQ — My company
 
 <div align="center">
 
 <a href="https://www.datanovaq.fr/">
-  <img src="./assets/datanovaq-logo.png" width="420" alt="DataNovaQ logo" />
+  <img src="./assets/datanovaq-logo.png" width="760" alt="DataNovaQ logo" />
 </a>
 
-**[Visit DataNovaQ →](https://www.datanovaq.fr/)**
+### Data & AI Governance Lead
+
+**[Discover DataNovaQ →](https://www.datanovaq.fr/)**
 
 </div>
 
-| Organization | Role | Mission |
+At **DataNovaQ**, I lead the strategy and operating model that make data and AI trustworthy, accountable, and ready to create sustainable business value.
+
+### My responsibilities
+
+- Define and lead the **Data & AI Governance strategy**, roadmap, and operating model
+- Establish clear **data ownership, stewardship, policies, standards, and decision rights**
+- Drive **data quality, metadata management, lineage, traceability, and observability**
+- Design **Responsible AI governance**, including accountability, risk controls, transparency, and compliance
+- Align business, data, technology, legal, risk, and compliance stakeholders around shared governance outcomes
+- Turn governance requirements into **practical frameworks, measurable controls, and scalable capabilities**
+- Promote a culture where data and AI are used ethically, securely, and responsibly
+
+## Community leadership
+
+| Organization | Role | Responsibilities |
 |---|---|---|
-| **[DataNovaQ](https://www.datanovaq.fr/)** | Data & AI Governance Lead | Turning governance principles into trusted, practical data and AI capabilities |
-| **YAIL Paris Hub** | VP Regional Lead | Growing a collaborative community around youth, AI, and responsible innovation |
-| **Youth IGF Morocco** | Founder | Empowering young people to shape an open, inclusive, and safe digital future |
+| **YAIL Paris Hub** | VP Regional Lead | Lead regional strategy, partnerships, programming, and community development around youth and responsible AI |
+| **Youth IGF Morocco** | Founder | Set the vision, build the ecosystem, and empower meaningful youth participation in Internet governance |
 
 ## What I work on
 
